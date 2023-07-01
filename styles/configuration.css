@@ -28,8 +28,8 @@
 }
 
 .error input {
-  border: rgb(126, 2, 2);
-  color: rgb(136, 2, 2);
+  border-color: rgb(136, 2, 2);
+  color:rgb(136, 2, 2);
   background-color: rgb(253, 219, 219);
 }
 
